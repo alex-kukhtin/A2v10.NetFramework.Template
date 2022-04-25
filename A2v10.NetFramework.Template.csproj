@@ -140,6 +140,7 @@
     <Content Include="App_application\%40schemas\api-model-json-schema.json" />
     <Content Include="App_application\main\home\model.json" />
     <None Include="packages.config" />
+    <Content Include="readme.md" />
     <None Include="Web.config" />
     <Content Include="Web.config.sample" />
   </ItemGroup>
